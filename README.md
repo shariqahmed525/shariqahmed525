@@ -40,28 +40,6 @@
 
 ---
 
-## 👨‍💻 Profile
-
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+DevOps+Engineer;React+%7C+React+Native+%7C+Next.js;Node.js+%7C+NestJS+%7C+TypeScript;AWS+%7C+Docker+%7C+PostgreSQL;Always+learning+new+technologies" alt="Typing SVG" />
-</div>
-
-<div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=header" alt="Header" />
-</div>
-
-### 🎨 Profile Overview
-
-<div align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariqahmed525&theme=radical" alt="Profile Details" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariqahmed525&theme=radical" alt="Repos Per Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariqahmed525&theme=radical" alt="Most Commit Language" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shariqahmed525&theme=radical" alt="Stats" />
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shariqahmed525&theme=radical" alt="Productive Time" />
-</div>
-
----
-
 ## 🚀 About Me
 
 I'm a **Full-Stack & DevOps Engineer** with **7+ years** of experience building scalable web applications and cross-platform mobile solutions. I'm passionate about crafting clean, efficient code and turning complex ideas into real products.
@@ -125,6 +103,24 @@ I'm a **Full-Stack & DevOps Engineer** with **7+ years** of experience building 
 ![React Query](https://img.shields.io/badge/React_Query-FF4154?style=for-the-badge&logo=react-query&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+---
+
+## 👨‍💻 Profile Overview
+
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=00D4FF&center=true&vCenter=true&width=500&lines=Full-Stack+Developer+%7C+DevOps+Engineer;React+%7C+React+Native+%7C+Next.js;Node.js+%7C+NestJS+%7C+TypeScript;AWS+%7C+Docker+%7C+PostgreSQL;Always+learning+new+technologies" alt="Typing SVG" />
+</div>
+
+### 🎨 GitHub Profile Summary
+
+<div align="center">
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=shariqahmed525&theme=radical" alt="Profile Details" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=shariqahmed525&theme=radical" alt="Repos Per Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=shariqahmed525&theme=radical" alt="Most Commit Language" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=shariqahmed525&theme=radical" alt="Stats" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=shariqahmed525&theme=radical" alt="Productive Time" />
+</div>
 
 ---
 
